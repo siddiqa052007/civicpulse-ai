@@ -1,0 +1,6 @@
+{
+  "name": "CivicPulse AI",
+  "description": "AI-Powered Infrastructure Risk Intelligence, Construction Age & Danger Prediction (>18yr Alert), Live GIS Maps, Citizen Camera Reporting, and Municipal Governance.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
